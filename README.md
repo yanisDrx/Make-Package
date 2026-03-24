@@ -19,7 +19,7 @@ python make_project.py morpion.py
 ## Commande avec venv personnalisé (optionnel)
 
 ```cmd
-python make_project.py morpion.py nom_du_venv
+python make_project.py nom_du_fichier.py nom_du_venv
 ```
 
 ---
