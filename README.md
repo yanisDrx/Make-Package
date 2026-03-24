@@ -6,3 +6,5 @@
 ```cmd
 python make_project.py morpion.py
 ```
+
+- Supprimer le fichier make_project.py de son workspace afin d'éviter tout conflit
