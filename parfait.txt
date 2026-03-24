@@ -1,0 +1,29 @@
+Je veux que tu me transmettes ta réponse **sous ce format précis**, à utiliser pour modifier ou ajouter du contenu dans un fichier markdown existant : 
+
+1. **Encapsulation complète** :  
+   - Tout le markdown final doit être **dans un seul bloc**, entouré de **5 backticks (`) externes**.  
+   - Cela permet de copier-coller l’intégralité du bloc directement dans un fichier `.md` sans perdre le formatage.
+
+2. **Blocs de code internes** :  
+   - Chaque bloc de code à l’intérieur du markdown doit être entouré de **triples backticks**.  
+   - Indique la langue du code si c’est pertinent (ex : python, bash, git, etc.).  
+   - Aucun conflit avec les 5 backticks externes, jamais.
+
+3. **Structure markdown complète et lisible** :  
+   - Titres et sous-titres (`#`, `##`, `###`) correctement hiérarchisés.  
+   - Listes (`-` ou `*`) correctement formatées.  
+   - Blocs de code, tableaux, citations, et notes correctement encapsulés.  
+   - Espaces et retours à la ligne conservés pour une lecture claire.
+
+4. **Modification et ajout** :  
+   - Toute modification ou ajout que tu réalises doit être intégré directement dans le markdown.  
+   - Ne sépare pas le contenu en plusieurs blocs.  
+   - Garde le style et le format existants du markdown cible.
+
+5. **Aucune explication externe** :  
+   - Ne mets **aucune phrase explicative hors du bloc markdown**.  
+   - Le contenu généré doit être **100% utilisable tel quel**.
+
+6. **Output final** :  
+   - La sortie doit être directement copiée et collée dans un `.md` et apparaître **parfaitement formatée dans l’aperçu markdown**.  
+   - Respect total des indentations, titres, blocs de code et style existants.
